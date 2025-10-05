@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 1 - Popular",
+        "id": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.5458, 6.2876],
+            [-75.5358, 6.2876],
+            [-75.5358, 6.2976],
+            [-75.5458, 6.2976],
+            [-75.5458, 6.2876]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 2 - Santa Cruz",
+        "id": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.5558, 6.2776],
+            [-75.5458, 6.2776],
+            [-75.5458, 6.2876],
+            [-75.5558, 6.2876],
+            [-75.5558, 6.2776]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 3 - Manrique",
+        "id": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.5658, 6.2676],
+            [-75.5558, 6.2676],
+            [-75.5558, 6.2776],
+            [-75.5658, 6.2776],
+            [-75.5658, 6.2676]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 4 - Aranjuez",
+        "id": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.5758, 6.2576],
+            [-75.5658, 6.2576],
+            [-75.5658, 6.2676],
+            [-75.5758, 6.2676],
+            [-75.5758, 6.2576]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 5 - Castilla",
+        "id": 5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.5858, 6.2476],
+            [-75.5758, 6.2476],
+            [-75.5758, 6.2576],
+            [-75.5858, 6.2576],
+            [-75.5858, 6.2476]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 6 - Doce de Octubre",
+        "id": 6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.5958, 6.2376],
+            [-75.5858, 6.2376],
+            [-75.5858, 6.2476],
+            [-75.5958, 6.2476],
+            [-75.5958, 6.2376]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 7 - Robledo",
+        "id": 7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.6058, 6.2276],
+            [-75.5958, 6.2276],
+            [-75.5958, 6.2376],
+            [-75.6058, 6.2376],
+            [-75.6058, 6.2276]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 8 - Villa Hermosa",
+        "id": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.5358, 6.2576],
+            [-75.5258, 6.2576],
+            [-75.5258, 6.2676],
+            [-75.5358, 6.2676],
+            [-75.5358, 6.2576]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 9 - Buenos Aires",
+        "id": 9
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.5458, 6.2376],
+            [-75.5358, 6.2376],
+            [-75.5358, 6.2476],
+            [-75.5458, 6.2476],
+            [-75.5458, 6.2376]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comuna 10 - La Candelaria",
+        "id": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.5658, 6.2476],
+            [-75.5558, 6.2476],
+            [-75.5558, 6.2576],
+            [-75.5658, 6.2576],
+            [-75.5658, 6.2476]
+          ]
+        ]
+      }
+    }
+  ]
+}
